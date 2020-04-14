@@ -1,4 +1,4 @@
-package com.pat.driver.cap1188
+package com.pat.driver
 
 import com.pi4j.io.gpio.GpioFactory
 import com.pi4j.io.gpio.PinEdge

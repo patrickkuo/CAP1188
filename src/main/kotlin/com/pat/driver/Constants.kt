@@ -1,4 +1,4 @@
-package com.pat.driver.cap1188
+package com.pat.driver
 
 val CAP1188_ADDRESS = 0x29
 
